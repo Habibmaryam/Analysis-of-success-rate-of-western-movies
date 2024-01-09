@@ -56,15 +56,15 @@ Some of the questions answered are as follows:
 
 **Detailed analysis**
 
-**TOTAL BUDGET VERSUS GROSS PROFIT FOR THE TOP 5 MOVIES**
+**Total budget versus gross profit for top 5 movies**
 
-Titanic appeared to have hit the highest spot in terms of gross profit of about $ 2,202M. Its total budget of $200M
+Titanic appeared to have hit the highest spot in terms of gross profit of about **$ 2,202M**. Its total budget of **$200M**
 The Lion King and The Sixth Sense seem to have the least budget even though they were both hits.
 
-**MONTHLY TOTAL BUDGET VERSUS TOTAL GROSS PROFIT**
+**Monthly Total budget versus gross profit**
 The total monthly budget is at its peak in July with a budget of **$ 24,417M** and a gross profit of $7,076M. This implies that the cost of movie production incurred about $17,341M  about 71% of the budget.
 
-**MOVIE GENRE BY SCORES**
+**Movie genre by scores**
 Comedy is seen to have the highest total scores of 8,373.1 while mystery had the lowest score of 84.5. This might be because viewers are not so interested in mystery but rather need something to cheer them up as life can be challenging.
 
 **Total sales in the month of release**
@@ -74,7 +74,7 @@ The month of June recorded the highest sales of **$24,417M** while a fall in sal
 The gain was highest in the year 2001 amounting to **$8,917M**. The cost of movie production dropped from around the year 2004 till 2019 to less than **$1M**
 
 **Average sales per country of release**
-Movie production in countries such as New Zealand, Australia, Germany, the United States, and France has been the most lucrative in average sales with New Zealand topping the charts with $108,586k average sales (61%). This was not the case in countries like Norway, Belgium, Libya, and the like.
+Movie production in countries such as New Zealand, Australia, Germany, the United States, and France has been the most lucrative in average sales with New Zealand topping the charts with $108,586k in average sales (61%). This was not the case in countries like Norway, Belgium, Libya, and the like.
 
 ---
 # Recommendations and Conclusion
